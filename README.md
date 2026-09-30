@@ -83,19 +83,7 @@ Random Forest and Logistic Regression perform almost identically, and both clear
 2. Academic pressure: 19.1%
 3. Financial stress: 10.5%
 
-### Figures
 
-**Confusion Matrix**
-
-![Confusion Matrix](figures/confusion_matrix.png)
-
-**ROC Curve**
-
-![ROC Curve](figures/roc_curve.png)
-
-**Feature Importance**
-
-![Feature Importance](figures/feature_importance.png)
 
 ## Actionable Insights
 
