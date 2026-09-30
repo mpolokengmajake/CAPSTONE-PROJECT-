@@ -1,7 +1,7 @@
 # CAPSTONE-PROJECT-
 # Predicting Student Depression with Machine Learning
 
-*Data Science Capstone Project | Project Documentation (README)*
+*Data Science Capstone Project | Project Documentation 
 
 | | |
 |---|---|
