@@ -112,10 +112,6 @@ Depression-Prediction/
 │   └── lifestyle_records.csv
 ├── models/
 │   └── random_forest_depression_model.pkl
-├── figures/
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
 ├── requirements.txt
 └── .gitignore
 ```
