@@ -7,7 +7,7 @@
 |---|---|
 | **Author** | Mpolokeng Majake (202402151) |
 | **Institution** | Sol Plaatje University |
-| **GitHub repository** | https://github.com/YOUR-USERNAME/Depression-Prediction |
+
 
 A machine learning project that uses lifestyle and academic factors to predict depression in university students, so that at-risk students can be identified and supported earlier.
 
