@@ -1,7 +1,7 @@
 # CAPSTONE-PROJECT-
 # Predicting Student Depression with Machine Learning
 
-*Data Science Capstone Project | Project Documentation 
+## Data Science Capstone Project | Project Documentation 
 
 | | |
 |---|---|
@@ -76,6 +76,8 @@ Three models were trained with class_weight='balanced' to handle the 58.5% / 41.
 | Logistic Regression | 0.8404 | 0.8610 | 0.9173 |
 
 Random Forest and Logistic Regression perform almost identically, and both clearly outperform the Decision Tree. Random Forest was chosen as the primary model because it handles mixed data types and provides feature importance rankings.
+
+#### The trained model (random_forest_depression_model.pkl) exceeds GitHub’s file size limit. To regenerate it, run all cells in the notebook from top to bottom.
 
 ### Top predictors (feature importance)
 
